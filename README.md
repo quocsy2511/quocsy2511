@@ -6,6 +6,8 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="images/java.png" alt="java" title="java" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
@@ -20,8 +22,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp; -->
 <span><img src="https://img.shields.io/badge/Adobe Photoshop-282C34?logo=adobe Photoshop&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Adobe Lightroom-282C34?logo=adobe Lightroom&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
